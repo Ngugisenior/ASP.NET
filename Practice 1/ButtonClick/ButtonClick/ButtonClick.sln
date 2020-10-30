@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonClick", "ButtonClick\ButtonClick.csproj", "{0A80452F-C08E-4955-A257-326C05E10949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A80452F-C08E-4955-A257-326C05E10949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A80452F-C08E-4955-A257-326C05E10949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A80452F-C08E-4955-A257-326C05E10949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A80452F-C08E-4955-A257-326C05E10949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0734F06-8AC6-4F81-A540-A6BEB57E9D53}
+	EndGlobalSection
+EndGlobal
